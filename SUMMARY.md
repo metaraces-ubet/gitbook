@@ -1,3 +1,7 @@
 # Summary
 
-[Whitepapper](Whitepapper.md)
+[Introduction](README.md)
+
+# User Guide
+
+- [Whitepapper](/Whitepapper.md)
