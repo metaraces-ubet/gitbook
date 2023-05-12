@@ -1,43 +1,49 @@
 # Summary
 
-[Introduction](README.md)
+### Getting Started
 
-# User Guide
+* [About this documentation](README.md)
+* [Installation and Setup](Whitepaper.md)
 
-- [Installation](guide/installation.md)
-- [Reading Books](guide/reading.md)
-- [Creating a Book](guide/creating.md)
+### Your Content
 
-# Reference Guide
+* [Directory structure](structure.md)
+* [Pages and Summary](pages.md)
+* [Configuration](config.md)
+* [Glossary](lexicon.md)
+* [Multi-Lingual](languages.md)
+* [Markdown](syntax/markdown.md)
+    * [Headings](syntax/markdown.md#headings)
+    * [Paragraphs](syntax/markdown.md#paragraphs)
+    * [Lists](syntax/markdown.md#lists)
+    * [Links](syntax/markdown.md#links)
+    * [Images](syntax/markdown.md#images)
+    * [Blockquotes](syntax/markdown.md#blockquotes)
+    * [Tables](syntax/markdown.md#tables)
+    * [Code](syntax/markdown.md#code)
+    * [HTML](syntax/markdown.md#html)
+    * [Footnotes](syntax/markdown.md#footnotes)
+* [AsciiDoc](syntax/asciidoc.md)
+* [eBook and PDF](ebook.md)
 
-- [Command Line Tool](cli/README.md)
-    - [init](cli/init.md)
-    - [build](cli/build.md)
-    - [watch](cli/watch.md)
-    - [serve](cli/serve.md)
-    - [test](cli/test.md)
-    - [clean](cli/clean.md)
-    - [completions](cli/completions.md)
-- [Format](format/README.md)
-    - [SUMMARY.md](format/summary.md)
-        - [Draft chapter]()
-    - [Configuration](format/configuration/README.md)
-        - [General](format/configuration/general.md)
-        - [Preprocessors](format/configuration/preprocessors.md)
-        - [Renderers](format/configuration/renderers.md)
-        - [Environment Variables](format/configuration/environment-variables.md)
-    - [Theme](format/theme/README.md)
-        - [index.hbs](format/theme/index-hbs.md)
-        - [Syntax highlighting](format/theme/syntax-highlighting.md)
-        - [Editor](format/theme/editor.md)
-    - [MathJax Support](format/mathjax.md)
-    - [mdBook-specific features](format/mdbook.md)
-    - [Markdown](format/markdown.md)
-- [Continuous Integration](continuous-integration.md)
-- [For Developers](for_developers/README.md)
-    - [Preprocessors](for_developers/preprocessors.md)
-    - [Alternative Backends](for_developers/backends.md)
+### Customization
 
------------
+* [Templating](templating/README.md)
+    * [Content References](templating/conrefs.md)
+    * [Variables](templating/variables.md)
+    * [Builtin](templating/builtin.md)
+* [Plugins](plugins/README.md)
+    * [Create a plugin](plugins/create.md)
+    * [Hooks](plugins/hooks.md)
+    * [Blocks](plugins/blocks.md)
+    * [Filters](plugins/filters.md)
+    * [API & Context](plugins/api.md)
+    * [Test your plugin](plugins/testing.md)
+* [Theming](themes/README.md)
 
-[Contributors](misc/contributors.md)
+--
+
+* [FAQ](faq.md)
+* [Examples](examples.md)
+* [Release notes](https://github.com/GitbookIO/gitbook/blob/master/CHANGES.md)
+
