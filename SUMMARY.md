@@ -1,3 +1,3 @@
 # Summary
 
-* [Whitepapper](Whitepapper.md)
+[Whitepapper](Whitepapper.md)
