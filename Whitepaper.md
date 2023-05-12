@@ -1,4 +1,5 @@
 ![alt text](https://testmetaracing.usrv.io/img/sidebar_header.gif)
+
 General
 
 MetaRacing is an NFT lottery platform that allows users to buy and trade digital collectibles representing racing cars. The platform is designed to create a fun and engaging experience for users while providing them with the opportunity to win valuable prizes through a randomized lottery system. MetaRacing uses blockchain technology to ensure transparency and fairness in the selection of lottery winners.
